@@ -10,7 +10,7 @@ The purpose of this respitory is to be able to manage a project in GitHub.
  git --version
  ```
   - you should get an output of the version that you have installed
-3. If not installed:
+2. If not installed:
 ```
 sudo apt update
 ```
@@ -18,11 +18,7 @@ sudo apt update
 sudo apt install git
 ```
   - return to Step 1
-  - 
-4. Clone the repository: 
+3. Clone the repository: 
 ```
 git clone <URL Link>
 ```
-
-# Contributions
-
