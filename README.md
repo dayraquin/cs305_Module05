@@ -24,3 +24,6 @@ git clone <URL Link>
 ```
 # Project Addition
 Here we are learning how others can fork this repository, add content, and push the changes for the author to review through a pull request.
+
+# License
+This project is licensed under the MIT liscense making it available for personal modification or use.
