@@ -23,4 +23,4 @@ sudo apt install git
 git clone <URL Link>
 ```
 # Project Addition
-Here we are learning how others can fork this repository, add content, and push the changes for the author to review through a pull request.
+Here we are learning how others can fork this repository, add content, and push the changes for the author to review through a pull request (despite the challenges of learning how to use GitHub).
