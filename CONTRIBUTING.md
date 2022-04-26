@@ -5,7 +5,7 @@
   - Commit and push changes
 
 #### Contributer:
-Ashley Davidge: April 25, 2022
+Ashley M Davidge April 25, 2022
 =======
 ## Contributors
 Brandon Udall April 25 2022
